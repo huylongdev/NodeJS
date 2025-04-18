@@ -22,7 +22,7 @@ This is a simple food ordering web application built using MongoDB, Express, Rea
 
 +)Using MongoDB for storing and querying data
 
-Managing state and UI components with React
++)Managing state and UI components with React
 
-Improving skills in handling HTTP requests, form validation, and user authentication
++)Improving skills in handling HTTP requests, form validation, and user authentication
 
