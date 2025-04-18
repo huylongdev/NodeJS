@@ -1,27 +1,26 @@
 🥡 Food Order App (MERN Stack) (HUYLONG_PATHETIC)
+
 This is a simple food ordering web application built using MongoDB, Express, React, and Node.js.
 
-🚀 Project Overview
-The goal of this project is to simulate a basic online food ordering system where users can:
+🚀 Project Overview: The goal of this project is to simulate a basic online food ordering system where users can:
 
-Browse available dishes
++)Browse available dishes
 
-Add items to the cart
++)Add items to the cart
 
-Place orders
++)Place orders
 
-Manage their account
++)Manage their account
 
-The backend is built with Node.js and Express, and the frontend uses React. Data is stored and managed through MongoDB.
++)The backend is built with Node.js and Express, and the frontend uses React. Data is stored and managed through MongoDB.
 
-🎯 Learning Objectives
-This project is built for learning purposes, focusing on:
+🎯 Learning Objectives: This project is built for learning purposes, focusing on:
 
-Understanding the structure and interaction between frontend and backend in a full-stack web app
++)Understanding the structure and interaction between frontend and backend in a full-stack web app
 
-Learning how to build RESTful APIs using Express and Node.js
++)Learning how to build RESTful APIs using Express and Node.js
 
-Using MongoDB for storing and querying data
++)Using MongoDB for storing and querying data
 
 Managing state and UI components with React
 
